@@ -1,7 +1,7 @@
 Southwest-Autocheckin
 =====================
 
-Register your southwest/swa flights and the system will checkin for you _automatically 24hrs before departure_.
+Yet another southwest checkin web-based system. Register your southwest/swa flights and the system will checkin for you _automatically 24hrs before departure_.
 
 Go to [springyleap.com](http://springyleap.com) to try it out.
 
