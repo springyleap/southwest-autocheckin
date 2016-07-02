@@ -7,9 +7,14 @@ Go to [springyleap.com](http://springyleap.com) to try it out.
 
 This system was inspired out of the original work by [Joe Beda's script](https://github.com/jbeda/southwest-checkin) and [Aaron Ortbals herokuapp](https://github.com/aortbals/southwest-checkin) southwest automatic checkin script and webapp respectively.
 
-The system is compatible with the latest changes done by the Southwest team in Late September'14 (redesign of their website and API). This is a live project, and I keep updating it regularly to offer more functionality and/or fix issues find by its users. If you find any issues, please report them [here](mailto:flightautocheckin@sybleu.com) or raise an issue in this project.
+__The system is compatible with the latest changes done by the Southwest team in_May'16__ (API updates). This is a live project, and I keep updating it regularly to offer more functionality and/or fix issues find by its users. If you find any issues, please report them [here](mailto:flightautocheckin@sybleu.com) or raise an issue in this project.
 
 __This system is for personal use only__.
+
+***
+New Features:
+* fixed emailto field
+* added new [python script](https://github.com/springyleap/southwest-autocheckin/tree/master/src/python/Southwest.Requests) with the basic functionality 
 
 ***
 
