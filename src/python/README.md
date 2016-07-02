@@ -3,12 +3,15 @@ Southwest-Autocheckin Python script
 
 This is a stand alone python script using [Python v3.5.2](https://www.python.org/downloads/release/python-352/) to query and checkin southwest flight reservations.
 
-__This system is for personal use only__.
+__This system is for personal use only!__
 
+__Usage__
 
-_usage:_
-_'SwaClient.py -c <confirmation #> -l <lastName> -f <firstName> -e <email>'_
-_'SwaClient.py --confirmationNumber=<confirmation #> --lastName=<lastName> --firstName=<firstName> --email <email>'_
+```'SwaClient.py -c <confirmation #> -l <lastName> -f <firstName> -e <email>'```
+
+_or_
+
+```'SwaClient.py --confirmationNumber=<confirmation #> --lastName=<lastName> --firstName=<firstName> --email <email>'```
 
 If you want to try the full system, go to [springyleap.com](http://springyleap.com)
 
@@ -31,8 +34,9 @@ __Development setup__
 __Contributing__
 
 * Fork it
-* Create your feature branch (git checkout -b my-new-feature)
-* Commit your changes (git commit -am 'Add some feature')
-* Write rspec tests
-* Push to the branch (git push origin my-new-feature)
+* Create your feature branch (```git checkout -b my-new-feature```)
+* Commit your changes (```git commit -am 'Add some feature'```)
+* Write tests
+* Push to the branch (```git push origin my-new-feature```)
 * Create new Pull Request
+* email me if I don't get back to you after a few days.
