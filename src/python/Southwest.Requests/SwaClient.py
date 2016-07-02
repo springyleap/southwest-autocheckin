@@ -29,8 +29,8 @@ defaultData = { 'platform':'android',
 #argv: -c ABC123 -l Doe -f Jonh -e john.doe@yahoo.com
 
 def main(argv):
-    helpMsg1='SouthwestRequests.py -c <confirmation #> -l <lastName> -f <firstName> -e <email>'
-    helpMsg2='SouthwestRequests.py --confirmationNumber=<confirmation #> --lastName=<lastName> --firstName=<firstName> --email <email>'
+    helpMsg1='SwaClient.py -c <confirmation #> -l <lastName> -f <firstName> -e <email>'
+    helpMsg2='SwaClient.py --confirmationNumber=<confirmation #> --lastName=<lastName> --firstName=<firstName> --email <email>'
 
     try:
         opts, args = getopt.getopt(argv, "hc:l:f:e:", ["confirmationNumber=,lastName=,firstName=,email="])
