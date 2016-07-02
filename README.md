@@ -13,8 +13,8 @@ __This system is for personal use only__.
 
 ***
 New Features:
-* fixed emailto field
-* added new [python script](https://github.com/springyleap/southwest-autocheckin/tree/master/src/python/Southwest.Requests) with the basic functionality 
+* Fixed emailto field
+* Added new [python script](https://github.com/springyleap/southwest-autocheckin/tree/master/src/python/) with the basic functionality 
 
 ***
 
@@ -29,3 +29,13 @@ Missing Features
 * International flights
 * SSL uses a different domain [springyleaf.com](https://www.springyleaf.com)
 * Misc...
+
+__Contributing__
+
+* Fork it
+* Create your feature branch (```git checkout -b my-new-feature```)
+* Commit your changes (```git commit -am 'Add some feature'```)
+* Write tests
+* Push to the branch (```git push origin my-new-feature```)
+* Create new Pull Request
+* email me if I don't get back to you after a few days.
